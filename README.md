@@ -1,4 +1,26 @@
-# High Accuracy Battery SOC Estimation Models Comparative Analysis
+# 🔋 High Accuracy Battery SoC Estimation Models - Comparative Analysis
+
+A graduation project focused on comparing high-accuracy machine learning models for **State of Charge (SoC)** estimation using battery data under varying temperature and C-rate conditions.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Graduation%20Project-blue?style=plastic&logo=academia&logoColor=white" alt="Graduation Project">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=plastic&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Framework-PyTorch-red?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ML%20Tools-Scikit--Learn-orange?style=plastic&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Optimization-Optuna-purple?style=plastic&logo=optuna&logoColor=white" alt="Optuna">
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%26%20Seaborn-yellow?style=plastic&logo=plotly&logoColor=white" alt="Visualization">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Model-ANN-brightgreen?style=plastic" alt="ANN">
+  <img src="https://img.shields.io/badge/Model-RNN-blue?style=plastic" alt="RNN">
+  <img src="https://img.shields.io/badge/Model-LSTM-blueviolet?style=plastic" alt="LSTM">
+  <img src="https://img.shields.io/badge/Model-CNN-orange?style=plastic" alt="CNN">
+</p>
+
 
 ## About the Project
 
